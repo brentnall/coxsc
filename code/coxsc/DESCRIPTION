@@ -1,0 +1,14 @@
+Package: coxsc
+Version: 0.0-1
+Date: 2018-04-13
+Title: Cox model for a randomized trial with selective crossover from unblinding
+Author: Adam Brentnall <a.brentnall@qmul.ac.uk>.
+Maintainer: Adam Brentnall <a.brentnall@qmul.ac.uk>
+Depends: R (>= 1.8.0)
+SystemRequirements: Gnu Scientific Library version >= 1.12
+Suggests: boot, survival, Rmpi, xtable
+Description: Fit Cox model by maximum likelihood for a 2-arm trial with selective crossover some way into the trial from unblinding.
+License: GPL (>= 3)
+URL: http://www.r-project.org
+BugReports: http://pkgname.bugtracker.url
+
